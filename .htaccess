@@ -1,0 +1,3 @@
+:Location *.(jpg|css|js|woff)
+Expires M2592000
+:Location
